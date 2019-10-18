@@ -7,7 +7,9 @@ This project is licensed under the terms of the MIT license (see the `LICENSE` f
 
 # Overview
 
-Scalable curve plotting, logarithmic running time (for n = number of values).
+Scalable curve plotting, logarithmic running time (for *n* = number of values).
+
+Homepage: https://github.com/GreatAttractor/plot
 
 
 # Running unit tests
